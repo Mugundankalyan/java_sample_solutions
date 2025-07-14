@@ -2,8 +2,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-
-
 public class graph {
     private HashMap<Integer,List<Integer>> adjList;
     public graph() {
